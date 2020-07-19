@@ -1,0 +1,15 @@
+C:\Users\Lenovo-17\AppData\Local\Temporary Projects\Ep1-3\bin\Debug\Ep1-3.exe.config
+C:\Users\Lenovo-17\AppData\Local\Temporary Projects\Ep1-3\bin\Debug\Ep1-3.exe
+C:\Users\Lenovo-17\AppData\Local\Temporary Projects\Ep1-3\bin\Debug\Ep1-3.pdb
+C:\Users\Lenovo-17\AppData\Local\Temporary Projects\Ep1-3\bin\Debug\Ep1-3.xml
+C:\Users\Lenovo-17\AppData\Local\Temporary Projects\Ep1-3\obj\Debug\Ep1-3.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo-17\AppData\Local\Temporary Projects\Ep1-3\obj\Debug\Ep1_3.Form1.resources
+C:\Users\Lenovo-17\AppData\Local\Temporary Projects\Ep1-3\obj\Debug\Ep1_3.Resources.resources
+C:\Users\Lenovo-17\AppData\Local\Temporary Projects\Ep1-3\obj\Debug\Ep1-3.vbproj.GenerateResource.Cache
+C:\Users\Lenovo-17\AppData\Local\Temporary Projects\Ep1-3\obj\Debug\Ep1-3.exe
+C:\Users\Lenovo-17\AppData\Local\Temporary Projects\Ep1-3\obj\Debug\Ep1-3.xml
+C:\Users\Lenovo-17\AppData\Local\Temporary Projects\Ep1-3\obj\Debug\Ep1-3.pdb
+D:\นัทธมน ขันธเขต\Ep1-3\Ep1-3\bin\Debug\Ep1-3.exe.config
+D:\นัทธมน ขันธเขต\Ep1-3\Ep1-3\obj\Debug\Ep1-3.exe
+D:\นัทธมน ขันธเขต\Ep1-3\Ep1-3\obj\Debug\Ep1-3.xml
+D:\นัทธมน ขันธเขต\Ep1-3\Ep1-3\obj\Debug\Ep1-3.pdb

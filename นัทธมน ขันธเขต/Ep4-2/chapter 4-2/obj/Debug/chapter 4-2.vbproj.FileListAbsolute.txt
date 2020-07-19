@@ -1,0 +1,22 @@
+D:\นัทธมน ขันธเขต\chapter 4-2\chapter 4-2\bin\Debug\chapter 4-2.exe.config
+D:\นัทธมน ขันธเขต\chapter 4-2\chapter 4-2\bin\Debug\chapter 4-2.exe
+D:\นัทธมน ขันธเขต\chapter 4-2\chapter 4-2\bin\Debug\chapter 4-2.pdb
+D:\นัทธมน ขันธเขต\chapter 4-2\chapter 4-2\bin\Debug\chapter 4-2.xml
+D:\นัทธมน ขันธเขต\chapter 4-2\chapter 4-2\obj\Debug\chapter 4-2.vbprojResolveAssemblyReference.cache
+D:\นัทธมน ขันธเขต\chapter 4-2\chapter 4-2\obj\Debug\WindowsApplication1.Form1.resources
+D:\นัทธมน ขันธเขต\chapter 4-2\chapter 4-2\obj\Debug\WindowsApplication1.Resources.resources
+D:\นัทธมน ขันธเขต\chapter 4-2\chapter 4-2\obj\Debug\chapter 4-2.vbproj.GenerateResource.Cache
+D:\นัทธมน ขันธเขต\chapter 4-2\chapter 4-2\obj\Debug\chapter 4-2.exe
+D:\นัทธมน ขันธเขต\chapter 4-2\chapter 4-2\obj\Debug\chapter 4-2.xml
+D:\นัทธมน ขันธเขต\chapter 4-2\chapter 4-2\obj\Debug\chapter 4-2.pdb
+D:\นัทธมน ขันธเขต\Ep4-2\chapter 4-2\bin\Debug\chapter 4-2.exe.config
+D:\นัทธมน ขันธเขต\Ep4-2\chapter 4-2\obj\Debug\chapter 4-2.exe
+D:\นัทธมน ขันธเขต\Ep4-2\chapter 4-2\obj\Debug\chapter 4-2.xml
+D:\นัทธมน ขันธเขต\Ep4-2\chapter 4-2\obj\Debug\chapter 4-2.pdb
+D:\นัทธมน ขันธเขต\Ep4-2\chapter 4-2\bin\Debug\chapter 4-2.exe
+D:\นัทธมน ขันธเขต\Ep4-2\chapter 4-2\bin\Debug\chapter 4-2.pdb
+D:\นัทธมน ขันธเขต\Ep4-2\chapter 4-2\bin\Debug\chapter 4-2.xml
+D:\นัทธมน ขันธเขต\Ep4-2\chapter 4-2\obj\Debug\chapter 4-2.vbprojResolveAssemblyReference.cache
+D:\นัทธมน ขันธเขต\Ep4-2\chapter 4-2\obj\Debug\WindowsApplication1.Form1.resources
+D:\นัทธมน ขันธเขต\Ep4-2\chapter 4-2\obj\Debug\WindowsApplication1.Resources.resources
+D:\นัทธมน ขันธเขต\Ep4-2\chapter 4-2\obj\Debug\chapter 4-2.vbproj.GenerateResource.Cache

@@ -1,0 +1,11 @@
+C:\Users\Lenovo-17\AppData\Local\Temporary Projects\Ep1-2\bin\Debug\Ep1-2.exe.config
+D:\นัทธมน ขันธเขต\Ep1-2\Ep1-2\bin\Debug\Ep1-2.exe.config
+D:\นัทธมน ขันธเขต\Ep1-2\Ep1-2\bin\Debug\Ep1-2.exe
+D:\นัทธมน ขันธเขต\Ep1-2\Ep1-2\bin\Debug\Ep1-2.pdb
+D:\นัทธมน ขันธเขต\Ep1-2\Ep1-2\bin\Debug\Ep1-2.xml
+D:\นัทธมน ขันธเขต\Ep1-2\Ep1-2\obj\Debug\Ep1_2.Form1.resources
+D:\นัทธมน ขันธเขต\Ep1-2\Ep1-2\obj\Debug\Ep1_2.Resources.resources
+D:\นัทธมน ขันธเขต\Ep1-2\Ep1-2\obj\Debug\Ep1-2.vbproj.GenerateResource.Cache
+D:\นัทธมน ขันธเขต\Ep1-2\Ep1-2\obj\Debug\Ep1-2.exe
+D:\นัทธมน ขันธเขต\Ep1-2\Ep1-2\obj\Debug\Ep1-2.xml
+D:\นัทธมน ขันธเขต\Ep1-2\Ep1-2\obj\Debug\Ep1-2.pdb

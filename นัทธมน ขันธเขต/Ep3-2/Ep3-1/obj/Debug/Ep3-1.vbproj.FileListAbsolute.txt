@@ -1,0 +1,10 @@
+D:\นัทธมน ขันธเขต\Ep3-1\Ep3-1\bin\Debug\Ep3-1.exe.config
+D:\นัทธมน ขันธเขต\Ep3-1\Ep3-1\bin\Debug\Ep3-1.exe
+D:\นัทธมน ขันธเขต\Ep3-1\Ep3-1\bin\Debug\Ep3-1.pdb
+D:\นัทธมน ขันธเขต\Ep3-1\Ep3-1\bin\Debug\Ep3-1.xml
+D:\นัทธมน ขันธเขต\Ep3-1\Ep3-1\obj\Debug\WindowsApplication1.Form1.resources
+D:\นัทธมน ขันธเขต\Ep3-1\Ep3-1\obj\Debug\WindowsApplication1.Resources.resources
+D:\นัทธมน ขันธเขต\Ep3-1\Ep3-1\obj\Debug\Ep3-1.vbproj.GenerateResource.Cache
+D:\นัทธมน ขันธเขต\Ep3-1\Ep3-1\obj\Debug\Ep3-1.exe
+D:\นัทธมน ขันธเขต\Ep3-1\Ep3-1\obj\Debug\Ep3-1.xml
+D:\นัทธมน ขันธเขต\Ep3-1\Ep3-1\obj\Debug\Ep3-1.pdb

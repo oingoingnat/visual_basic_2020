@@ -1,0 +1,14 @@
+C:\Users\Lenovo-17\AppData\Local\Temporary Projects\Ep1-4\bin\Debug\Ep1-4.exe.config
+C:\Users\Lenovo-17\AppData\Local\Temporary Projects\Ep1-4\bin\Debug\Ep1-4.exe
+C:\Users\Lenovo-17\AppData\Local\Temporary Projects\Ep1-4\bin\Debug\Ep1-4.pdb
+C:\Users\Lenovo-17\AppData\Local\Temporary Projects\Ep1-4\bin\Debug\Ep1-4.xml
+C:\Users\Lenovo-17\AppData\Local\Temporary Projects\Ep1-4\obj\Debug\Ep1_4.Form1.resources
+C:\Users\Lenovo-17\AppData\Local\Temporary Projects\Ep1-4\obj\Debug\Ep1_4.Resources.resources
+C:\Users\Lenovo-17\AppData\Local\Temporary Projects\Ep1-4\obj\Debug\Ep1-4.vbproj.GenerateResource.Cache
+C:\Users\Lenovo-17\AppData\Local\Temporary Projects\Ep1-4\obj\Debug\Ep1-4.exe
+C:\Users\Lenovo-17\AppData\Local\Temporary Projects\Ep1-4\obj\Debug\Ep1-4.xml
+C:\Users\Lenovo-17\AppData\Local\Temporary Projects\Ep1-4\obj\Debug\Ep1-4.pdb
+D:\นัทธมน ขันธเขต\Ep1-4\Ep1-4\bin\Debug\Ep1-4.exe.config
+D:\นัทธมน ขันธเขต\Ep1-4\Ep1-4\obj\Debug\Ep1-4.exe
+D:\นัทธมน ขันธเขต\Ep1-4\Ep1-4\obj\Debug\Ep1-4.xml
+D:\นัทธมน ขันธเขต\Ep1-4\Ep1-4\obj\Debug\Ep1-4.pdb
